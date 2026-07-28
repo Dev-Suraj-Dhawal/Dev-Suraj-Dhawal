@@ -1,75 +1,87 @@
-🚀 Suraj Dhawal | Aspiring AI Engineer & Full-Stack Developer
-Turning Ideas Into Reality Through Code, Creativity & Consistency
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suraj%20Dhawal&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Background" />
+</p>
 
-Hi! I’m Suraj Dhawal, a passionate Computer Engineering graduate obsessed with building meaningful digital experiences — from AI-powered tools to modern full-stack applications. I love mixing creativity with engineering to craft clean UIs, powerful backend systems, and automation tools that make life easier.
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Next-Gen+AI+Tools;Crafting+High-End+UI%2FUX;Engineering+Scalable+Full-Stack+Apps;Exploring+IoT+%26+Robotics" alt="Typing SVG" />
+</p>
 
-Technology isn't just a career for me — it’s a journey of growth, innovation, and mastery.
+## 🌐 Bridging the Gap Between Engineering & Aesthetics
 
-🌟 About Me
+Welcome to my digital workspace. I am a Computer Engineering professional obsessed with building meaningful digital experiences. I specialize in developing robust backend architectures, integrating cutting-edge AI, and crafting futuristic, high-end UI/UX designs utilizing concepts like glassmorphism and 3D interactions.
 
-💻 Strong foundation in C, C++, Java, Python
+I study the mindsets, systems, and architectures used by global industry leaders to build products that are not only technologically advanced but also visually flawless and highly scalable.
 
-🌐 Skilled in HTML, CSS, TailwindCSS, JavaScript
+### 🚀 Featured Innovations & Projects
+*   **Aether:** A massive-scale global intelligence dashboard and search application that synthesizes complex data from multiple public APIs into a sleek, unified, and highly responsive interface.
+*   **LogicBench:** An interactive, web-based digital logic workbench and simulator built to streamline logic gate design and computer engineering workflows.
 
-🛠️ Experienced with Node.js, Express, Flask
+### 💼 Professional Experience
+*   **IT & Telecommunications:** Hands-on experience at **Nepal Telecom**, managing router configurations, network troubleshooting, and complex CRM operations.
 
-🗄️ Databases: MySQL, MongoDB
+---
 
-⚙️ Git, GitHub, Linux, REST APIs
+## 🛠️ The Tech Arsenal
 
-🔒 Microsoft & LinkedIn Certified in Cybersecurity
+**Core Architecture & Frameworks**
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,nodejs,express,react,nextjs,flask&theme=dark" alt="Languages and Frameworks" /> 
+</p>
 
-☁️ Google Cloud & Generative AI Certified
+**UI/UX, Styling & Design**
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,threejs&theme=dark" alt="UI UX Tools" /> 
+</p>
 
-📊 Data Science | AI | ML trained (ISMT College)
+**Databases, DevOps & Cloud Platforms**
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,cloudflare,gcp,postman,vscode,arduino&theme=dark" alt="Tools and Platforms" /> 
+</p>
 
-🎯 Strong problem-solving and algorithmic thinking
+---
 
-🧠 Passionate about AI-driven products & automation
+## 📊 Analytics & Impact
 
-🚀 Always learning, building, and improving
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dev-Suraj-Dhawal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
-✨ What I Love to Build
+<p align="center"> 
+  <a href="https://github.com/Dev-Suraj-Dhawal"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Dev-Suraj-Dhawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Suraj-Dhawal&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/> 
+  </a> 
+</p> 
 
-✔ Modern & responsive UI/UX
-✔ AI automation tools
-✔ Image processing applications
-✔ Backend APIs & microservices
-✔ Real-world problem-solving projects
-✔ Tools that look great and work flawlessly
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Suraj-Dhawal&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" /> 
+</p>
 
-📊 GitHub Stats
-<p align="center"> <a href="https://github.com/Dev-Suraj-Dhawal"> <img src="https://github-readme-stats.vercel.app/api?username=Dev-Suraj-Dhawal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Suraj-Dhawal&theme=tokyonight&hide_border=true" height="165"/> </a> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Suraj-Dhawal&theme=tokyo-night&hide_border=true" /> </p>
-🛠️ Tech Stack
-Languages & Frameworks
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,tailwind,nodejs,express,react,flask" /> </p>
-Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,mongodb,postman,vscode,cloudflare,gcp" /> </p>
-🔐 Certifications
+---
 
-Microsoft Cybersecurity Fundamentals
+## 🔐 Credentials & Continuous Learning
 
-LinkedIn Cybersecurity Awareness
+*   **Cybersecurity Certified:** Microsoft Cybersecurity Fundamentals | LinkedIn Cybersecurity Awareness
+*   **Cloud & Generative AI:** Google Cloud & Generative AI Certified
+*   **Data & Machine Learning:** Data Science, AI & ML Trained (ISMT)
+*   **Currently Exploring:** Deep Learning enhancement models, advanced prompt engineering, and the intersection of hardware & software (IoT/Robotics).
 
-Google Cloud & Generative AI
+---
 
-Data Science, AI & ML (ISMT College)
+## 📫 Connect & Collaborate
 
-🌱 Currently Working On
+<p align="left"> 
+  <a href="https://github.com/Dev-Suraj-Dhawal"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a> 
+  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> 
+</p>
 
-🚀 AI-powered image processing tools
+> *"Master the systems of today to build the world of tomorrow. Stay consistent—your future self is counting on you."*
 
-🧠 Self-trained enhancement models
-
-🌐 Full-stack web applications
-
-📚 Expanding knowledge in Deep Learning & prompt engineering
-
-📫 Let’s Connect
-<p> <a href="https://github.com/Dev-Suraj-Dhawal"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <!-- Add more links when ready --> </p>
-💬 Quote I Live By
-
-“Stay consistent. Your future self is counting on you.”
-
-🐱‍💻 Visitor Count
-<p> <img src="https://komarev.com/ghpvc/?username=Dev-Suraj-Dhawal&color=blueviolet"> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Suraj-Dhawal&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count">
+</p>
