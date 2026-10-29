@@ -1,25 +1,38 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suraj%20Dhawal&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Suraj%20Dhawal&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineering&descAlignY=55&descAlign=50&animation=twinkling" width="100%" alt="Header Background" />
 </p>
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Next-Gen+AI+Tools;Crafting+High-End+UI%2FUX;Engineering+Scalable+Full-Stack+Apps;Exploring+IoT+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Engineering+Scalable+Full-Stack+Apps;Crafting+High-End+UI%2FUX;Building+Open-Source+Developer+Tools;Exploring+AI%2C+IoT+%26+Web+Architecture" alt="Typing SVG" />
+</p>
+
+<!-- Interactive GitHub Universe DOOM Badge -->
+<p align="center">
+  <a href="https://badger.github.io/virtual?u=dev-suraj-dhawal" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_GitHub_Universe-Play_DOOM_on_My_Virtual_Badge-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Universe DOOM Badge" />
+  </a>
+  <a href="https://surajdhawal.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-surajdhawal.com.np-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="Portfolio Website" />
+  </a>
 </p>
 
 ## 🌐 Bridging the Gap Between Engineering & Aesthetics
 
-Welcome to my digital workspace. I am a Computer Engineering professional obsessed with building meaningful digital experiences. I specialize in developing robust backend architectures, integrating cutting-edge AI, and crafting futuristic, high-end UI/UX designs utilizing concepts like glassmorphism and 3D interactions.
+Welcome to my digital workspace. I am a Computer Engineering graduate and Full-Stack Developer obsessed with building meaningful digital experiences. I specialize in developing robust web architectures, crafting pixel-perfect, high-end UI/UX designs utilizing glassmorphism and dynamic micro-animations, and exploring practical AI integrations.
 
-I study the mindsets, systems, and architectures used by global industry leaders to build products that are not only technologically advanced but also visually flawless and highly scalable.
+I study the mindsets, systems, and architectures used by global industry leaders to build products that are not only technologically solid but also visually flawless and highly scalable.
 
 ### 🚀 Featured Innovations & Projects
-*   **Aether:** A massive-scale global intelligence dashboard and search application that synthesizes complex data from multiple public APIs into a sleek, unified, and highly responsive interface.
-*   **LogicBench:** An interactive, web-based digital logic workbench and simulator built to streamline logic gate design and computer engineering workflows.
+* **DeskDetox:** An open-source Python CLI wellness tool powered by Gemini 1.5 Flash, Open-Meteo, and the OpenStreetMap Overpass API that generates real-time, weather-aware outdoor break missions for developers.
+* **Aether:** A global intelligence dashboard PWA built with React 19 and Vite that synthesizes complex data from multiple public APIs into a sleek, unified, and highly responsive interface.
+* **LogicBench:** An interactive, web-based digital logic workbench and circuit simulator built to streamline logic gate design and computer engineering workflows.
 
-### 💼 Professional Experience
-*   **IT & Telecommunications:** Hands-on experience at **Nepal Telecom**, managing router configurations, network troubleshooting, and complex CRM operations.
+### 💼 Professional Experience & Community Leadership
+* **Frontend Developer Intern:** Built responsive enterprise web interfaces and ERP components at **Graphilla Technology Pvt. Ltd.** using React, Next.js, and Tailwind CSS.
+* **IT & Telecommunications Intern:** Hands-on experience at **Nepal Telecom (Bhairahawa)**, managing router configurations, hardware troubleshooting, operational documentation, and CRM operations.
+* **Community Tech Organizer:** Organized **Hacktoberfest Hack Day Bhairahawa** in partnership with Graphilla Technology and Major League Hacking (MLH), mentoring student builders and open-source contributors.
 
 ---
 
@@ -32,17 +45,17 @@ I study the mindsets, systems, and architectures used by global industry leaders
 
 **UI/UX, Styling & Design**
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,threejs&theme=dark" alt="UI UX Tools" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,figma,threejs&theme=dark" alt="UI UX Tools" /> 
 </p>
 
 **Databases, DevOps & Cloud Platforms**
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,cloudflare,gcp,postman,vscode,arduino&theme=dark" alt="Tools and Platforms" /> 
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,github,linux,cloudflare,gcp,postman,vscode&theme=dark" alt="Tools and Platforms" /> 
 </p>
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Analytics, Easter Eggs & Impact
 
 <p align="center">
   <!-- GitHub Trophies -->
@@ -62,14 +75,21 @@ I study the mindsets, systems, and architectures used by global industry leaders
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Suraj-Dhawal&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" /> 
 </p>
 
+<div align="center">
+  <kbd>
+    <a href="https://badger.github.io/virtual?u=dev-suraj-dhawal" target="_blank">
+      👾 <b>Easter Egg:</b> Click here to launch my interactive 3D GitHub Universe Badge (runs DOOM in your browser!)
+    </a>
+  </kbd>
+</div>
+
 ---
 
 ## 🔐 Credentials & Continuous Learning
 
-*   **Cybersecurity Certified:** Microsoft Cybersecurity Fundamentals | LinkedIn Cybersecurity Awareness
-*   **Cloud & Generative AI:** Google Cloud & Generative AI Certified
-*   **Data & Machine Learning:** Data Science, AI & ML Trained (ISMT)
-*   **Currently Exploring:** Deep Learning enhancement models, advanced prompt engineering, and the intersection of hardware & software (IoT/Robotics).
+* **Cybersecurity Certified:** Microsoft Cybersecurity Fundamentals | LinkedIn Cybersecurity Awareness | TCS Cybersecurity Analyst Simulation
+* **Cloud & Generative AI:** Google Cloud & Generative AI Certified
+* **Currently Exploring:** AI-assisted developer tooling, local-first web architectures, and full-stack financial systems.
 
 ---
 
@@ -77,7 +97,7 @@ I study the mindsets, systems, and architectures used by global industry leaders
 
 <p align="left"> 
   <a href="https://github.com/Dev-Suraj-Dhawal"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a> 
-  <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> 
+  <a href="https://www.linkedin.com/in/surajdhawal"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> 
 </p>
 
 > *"Master the systems of today to build the world of tomorrow. Stay consistent—your future self is counting on you."*
