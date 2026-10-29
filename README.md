@@ -36,6 +36,29 @@ I study the mindsets, systems, and architectures used by global industry leaders
 
 ---
 
+## 🎃 Community & Open Source (Hacktoberfest 2026)
+
+<p align="center">
+  <img src="download.png" width="115" alt="Hacktoberfest 2026" />
+  <img src="download (1).png" width="115" alt="Hacktoberfest Trophy" />
+  <img src="hacktoberfest-2026-milestone-completionist-plus-plus.png" width="115" alt="Completionist++" />
+  <img src="hacktoberfest-2026-milestone-complete.png" width="115" alt="Milestone Complete" />
+  <img src="hacktoberfest-2026-milestone-pack.png" width="115" alt="IRL Sticker Pack" />
+  <br/>
+  <img src="hacktoberfest-2026-ghw-points-15.png" width="115" alt="Global Hack Week Points" />
+  <img src="hacktoberfest-2026-dev-week-1.png" width="115" alt="DEV Challenge Week 1" />
+  <img src="hacktoberfest-2026-dev-connect.png" width="115" alt="DEV Account Connected" />
+  <img src="hacktoberfest-2026-dev-relay.png" width="115" alt="DevRelay" />
+  <br/>
+  <img src="hacktoberfest-2026-livestreams-1.png" width="115" alt="Livestream 1" />
+  <img src="hacktoberfest-2026-livestreams-3.png" width="115" alt="Livestream 3" />
+  <img src="hacktoberfest-2026-signin.png" width="115" alt="Sign In" />
+  <img src="hacktoberfest-2026-survey-pre.png" width="115" alt="Pre-event Survey" />
+  <img src="hacktoberfest-2026-address.png" width="115" alt="Address Added" />
+</p>
+
+---
+
 ## 🛠️ The Tech Arsenal
 
 **Core Architecture & Frameworks**
